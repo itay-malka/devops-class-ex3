@@ -4,7 +4,7 @@ public class itay_malka{
 
         for (int i=1;i<=3; i++) {
 
-            System.out.println("Itay Malka");
+            System.out.println("Itay Malka with a change");
 
         }
 
